@@ -2,24 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-.menu-acessibilidade{
-    position: fixed;
-    top:2rem;
-    right:20px;
-    z-index: 1000;
-}
-   .rotacao-botao{ 
-      transform: rotate(-90deg);
-      transform-origin: right center;
-}   
-
 
 :root{
     --rosa: #d39b9b;
-    --pink: #fc239a;
+    --roxo: #7012bd;
     --amarelo-claro:#0a0a08;
-    --roxo-claro:#B2A5FF;
+    --roxo-claro:#6e64a5;
     --verde: #99BC85;
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
