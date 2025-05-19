@@ -12,11 +12,12 @@
    .rotacao-botao{ 
       transform: rotate(-90deg);
       transform-origin: right center;
-}
+}   
+
 
 :root{
-    --preto: #000000;
-    --marinho: #493D9E;
+    --rosa: #d39b9b;
+    --pink: #e654a4;
     --amarelo-claro:#FFF2AF;
     --roxo-claro:#B2A5FF;
     --verde: #99BC85;
