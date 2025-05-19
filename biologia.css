@@ -10,9 +10,9 @@
     --amarelo-claro: #FFF2AF;
     --amarelo: #f8dc5d;
     --verde: #99BC85;
-    --azul-claro: #E4EFE7;
+    --azul-claro: #35cce0;
     --branco: #FFFFFF;
-    --marron-claro: #FAF1E6;
+    --marron-claro: #c58e4b;
 }
 
 body {
@@ -43,10 +43,10 @@ header {
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(--preto);
+    background-color: var(--verde);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--roxo-claro);
+    color: var(--marron-claro);
 }
 
 #menu-toggle {
