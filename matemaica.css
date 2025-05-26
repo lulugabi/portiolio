@@ -121,7 +121,7 @@ h1 {
     font-size: 4rem;
 }
 
-.MATEMATICA-container {
+.matematica-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
