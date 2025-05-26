@@ -5,14 +5,14 @@
 }
 
 :root {
-    --verde: #b5b82b;
-    --marinho: #178329;
-    --amarelo-claro: #d4cb4e;
-    --amarelo: #d3b944;
-    --verde: #85c460;
-    --azul-claro: #007527;
-    --branco: #59af08;
-    --marron-claro: #b5b82b;t
+    --verde: #2b15f1;
+    --marinho: #024fa8;
+    --amarelo-claro: #6587f8;
+    --amarelo: #0062b3;
+    --verde: #6d90a0;
+    --azul-claro: #38608d;
+    --branco: #0ecbec;
+    --marron-claro: #3c96fd;t
 
 body {
     height: 100vh;
