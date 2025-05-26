@@ -168,7 +168,7 @@ h1 {
 
 .conteudo ul li {
     padding: 10px 0;
-    border-bottom: 1px solid var(--azul-claro);
+    border-bottom: 1px solid var(--azul);
     transition: transform 0.5s ease;
     color: var(--preto);
 }
