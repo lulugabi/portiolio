@@ -12,7 +12,7 @@
     --verde: #365027;
     --rosa: #93ec98;
     --branco: #59af08;
-    --marron-claro: #b5b82b;t
+    --marron-claro: #b5b82b;
 
 body {
     height: 100vh;
@@ -46,6 +46,7 @@ header {
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--marron-claro);
+    transition: background-color 0.3s ease; 
 }
 
 #menu-toggle {
@@ -56,11 +57,13 @@ header {
     display: none;
     position: absolute;
     background-color: var(--roxo);
-    box-shadow: 0 2px 5px var(--marinho);
+     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
     min-width: 190px;
     z-index: 1;
     left: 1rem;
     top: 100%;
+    border-radius: 0 0 8px 8px; 
+    box-shadow: 0 2px 5px var(--marinho);
 }
 
 .lista-vertical a {

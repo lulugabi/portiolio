@@ -3,16 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 
-:root{
-    --rosa: #d39b9b;
-    --roxo: #7012bd;
-    --amarelo-claro:#9136bb;
-    --roxo-claro:#6e64a5;
-    --verde: #e9da87;
-    --azul-claro: #f17ee2;
-    --marrom: #a87a55;
-    --marron-claro: #7a4e18;
+:root {
+    --verde: #b5b82b;
+    --marinho: #027515;
+    --roxo: #d4cb4e;
+    --amarelo: #d3b944;
+    --verde-escuro: #365027;
+    --rosa: #93ec98;
+    --branco: #59af08;
+    --marron-claro: #b5b82b;
+    --azul-claro: #add8e6; /* Added missing variable */
+    --roxo-claro: #9370db; /* Added missing variable */
+    --amarelo-claro: #fffacd; /* Added missing variable */
 }
+
 body{
     height: 100vh;
     box-sizing: border-box;
