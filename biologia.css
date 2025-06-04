@@ -10,14 +10,14 @@
     --roxo: #d4cb4e;
     --amarelo: #d3b944;
     --verde: #365027;
-    --azul: #93ec98;
+    --rosa: #93ec98;
     --branco: #59af08;
     --marron-claro: #b5b82b;t
 
 body {
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--azul);
+    background-color: var(--rosa);
     color: var(--roxo);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
