@@ -7,18 +7,18 @@
 :root {
     --verde: #b5b82b;
     --marinho: #027515;
-    --amarelo-claro: #d4cb4e;
+    --roxo: #d4cb4e;
     --amarelo: #d3b944;
     --verde: #85c460;
-    --azul-claro: #007527;
+    --azul: #007527;
     --branco: #59af08;
     --marron-claro: #b5b82b;t
 
 body {
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--azul-claro);
-    color: var(--amarelo-claro);
+    background-color: var(--azul);
+    color: var(--roxo);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -55,7 +55,7 @@ header {
 .lista-vertical {
     display: none;
     position: absolute;
-    background-color: var(--roxo-claro);
+    background-color: var(--roxo);
     box-shadow: 0 2px 5px var(--marinho);
     min-width: 190px;
     z-index: 1;
@@ -73,7 +73,7 @@ header {
 }
 
 .lista-vertical a:hover {
-    background-color: var(--amarelo-claro);
+    background-color: var(--roxo);
 }
 
 #menu-toggle:checked~.lista-vertical {
@@ -81,7 +81,7 @@ header {
 }
 
 #menu-toggle:checked+.botao-disciplinas {
-    background-color: var(--amarelo-claro);
+    background-color: var(--roxo);
 }
 
 .links-principais {
@@ -102,7 +102,7 @@ header {
 
 .lista-horizontal a {
     text-decoration: none;
-    color: var(--amarelo-claro);
+    color: var(--roxo);
 }
 
 .lista-horizontal a:hover {
@@ -167,7 +167,7 @@ h1 {
 
 .conteudo ul li {
     padding: 10px 0;
-    border-bottom: 1px solid var(--azul-claro);
+    border-bottom: 1px solid var(--azul);
     transition: transform 0.5s ease;
     color: var(--preto);
 }
