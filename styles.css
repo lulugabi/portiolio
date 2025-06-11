@@ -2,26 +2,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
-:root {
-    --verde: #b5b82b;
-    --marinho: #027515;
-    --roxo: #d4cb4e;
-    --amarelo: #d3b944;
-    --verde-escuro: #365027;
-    --rosa: #93ec98;
-    --branco: #59af08;
-    --marron-claro: #b5b82b;
-    --azul-claro: #add8e6; /* Added missing variable */
-    --roxo-claro: #9370db; /* Added missing variable */
-    --amarelo-claro: #fffacd; /* Added missing variable */
 }
 
+:root {
+    --verde: #eccb5e;
+    --marinho: #b779e9;
+    --amarelo-claro: #9b58a1;
+    --amarelo: #a37be4;
+    --verde: #a633e9;
+    --azul: #9dbcff;
+    --branco: #9e60f0;
+    --marron-claro: #8a116b;
+}
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--azul-claro);
-    color: var(--roxo-claro);
+    background-color: var(--azul);
+    color: var(--marron-claro);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -36,7 +33,7 @@ header {
 
 .portfolio h1{
     font-size: 4rem;
-    color: var(--roxo-claro);
+    color: var(--verde);
 }
 main {
     margin: 40px auto;
@@ -56,7 +53,7 @@ main {
 .disciplina {
     display: flex;
     justify-content: center;
-    background-color: var(--rosa);
+    background-color: var(--marron-claro);
     border-radius: 10px;
     padding: 30px;
     width: 80%;

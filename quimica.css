@@ -12,7 +12,8 @@
     --verde: #a633e9;
     --azul: #64377e;
     --branco: #9e60f0;
-    --marron-claro: #8a116b;t
+    --marron-claro: #8a116b;
+}
 
 body {
     height: 100vh;
