@@ -19,7 +19,7 @@ body {
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--marron-claro);
-    color: var(--amarelo-claro);
+    color: var(--marinho);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
