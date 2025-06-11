@@ -74,7 +74,7 @@ header {
 }
 
 .lista-vertical a:hover {
-    background-color: var(--amarelo-claro);
+    background-color: var(--branco);
 }
 
 #menu-toggle:checked~.lista-vertical {
@@ -82,7 +82,7 @@ header {
 }
 
 #menu-toggle:checked+.botao-disciplinas {
-    background-color: var(--branco);
+    background-color: var(--amarelo-claro);
 }
 
 .links-principais {
