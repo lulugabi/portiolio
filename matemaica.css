@@ -10,9 +10,10 @@
     --amarelo-claro: #6587f8;
     --amarelo: #0062b3;
     --verde: #79a6bb;
-    --azul-claro: #38608d;
+    --azul-claro: #cee7ff;
     --branco: #0ecbec;
-    --marron-claro: #3c96fd;t
+    --marron-claro: #3c96fd;
+}
 
 body {
     height: 100vh;
