@@ -13,12 +13,13 @@
     --rosa: #93ec98;
     --branco: #59af08;
     --marron-claro: #b5b82b;
+}
 
 body {
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--rosa);
-    color: var(--roxo);
+    background-color: var(--azul);
+    color: var(--amarelo-claro);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
