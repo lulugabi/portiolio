@@ -45,7 +45,7 @@ header {
     background-color: var(--verde);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--verdes);
+    color: var(--marinho);
     transition: background-color 0.3s ease; 
 }
 
