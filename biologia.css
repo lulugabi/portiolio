@@ -9,7 +9,7 @@
     --marinho: #027515;
     --roxo: #d4cb4e;
     --amarelo: #d3b944;
-    --verde: #365027;
+    --verdes: #365027;
     --rosa: #93ec98;
     --branco: #59af08;
     --marron-claro: #b5b82b;
@@ -45,7 +45,7 @@ header {
     background-color: var(--verde);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--marron-claro);
+    color: var(--verdes);
     transition: background-color 0.3s ease; 
 }
 
@@ -119,7 +119,7 @@ main {
 
 h1 {
     text-align: center;
-    color: var(--verde);
+    color: var(--verdes);
     margin-bottom: 60px;
     font-size: 4rem;
 }
